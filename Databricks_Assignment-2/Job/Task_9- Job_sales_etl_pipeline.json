@@ -23,7 +23,7 @@
       "task_key": "Task_run_Master_pipeline",
       "run_if": "ALL_SUCCESS",
       "notebook_task": {
-        "notebook_path": "/Workspace/Users/kishelake12@gmail.com/Databricks_Assignment-2/Task_8-MasterNB_Pipeline Orchestration",
+        "notebook_path": "/Workspace/Users/kishelake12@gmail.com/Databricks-POC_Assig2/Databricks_Assignment-2/Task_8-MasterNB_Pipeline Orchestration",
         "source": "WORKSPACE"
       },
       "max_retries": 2,
